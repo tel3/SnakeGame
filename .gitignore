@@ -1,0 +1,22 @@
+﻿# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temp files
+*.tmp
+*.log
+
+# Node (if any)
+node_modules/
+
+# Codex
+.codex/
+.agents/

@@ -2,8 +2,6 @@
 
 一个功能丰富的网页版贪吃蛇游戏，纯 HTML/CSS/JS 实现，零依赖，打开即玩。
 
-![游戏截图](screenshots/start.png)
-
 ## ✨ 功能特色
 
 ### 核心玩法
@@ -84,8 +82,7 @@ start index.html # Windows
 SnakeGame/
 ├── index.html      # 游戏主文件（单文件，包含所有代码）
 ├── .gitignore      # Git 忽略配置
-└── screenshots/    # 游戏截图
-    └── start.png
+└── README.md       # 项目说明文档
 ```
 
 ## 🛠️ 技术说明

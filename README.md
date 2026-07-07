@@ -92,10 +92,5 @@ SnakeGame/
 - 无任何外部依赖
 - 代码压缩版约 22KB
 
-## 📄 License
-
-MIT
-
----
 
 Made with ❤️ for fun
